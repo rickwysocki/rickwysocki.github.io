@@ -1,0 +1,22 @@
+I"|<p>Thanks for visiting my site. I use this space to blog about things that interest and concern me, such as my research, academia, the rise of fascism in the United States, and music. Additionally, I collect and post materials related to my research, teaching, and editorial work, though these will be added to the site in coming weeks.</p>
+
+<section class="photo-grid">
+<img src="/assets/images/rickapril.jpg" />
+
+<img src="/assets/images/aprilglitch.jpg" />
+
+<img src="/assets/images/queen.jpg" />
+
+<img src="/assets/images/ginsberg.jpg" />
+</section>
+
+<p>When not working, I’m often immersed in learning something new, typically related to web development or music production. In the past, this has put my site a state of flux. I am currently rebuilding my site from scratch (though using Jekyll,<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> of course) to try out some new libraries and frameworks I’ve been fiddling with. But I’m also trying, this time, to develop the site in a way that encourages iterative development and, more importantly, actual <em>writing</em>. So, the state of the site may be somewhat unfixed for the time being. Use it as an opportunity to remember: the only permanence is change.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I love you, Jekyll. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+
+    <header>
+
+      {% include nav.html %}
+
+        <!-- <img class="avatar" src="https://placeimg.com/150/150/any" /> -->
+
+        <div class="page-card">
+      <h1 class="page-title">{{site.title}}</h1>
+
+    <p class="attention-grabber">{{site.blurb}}</p>
+
+
+    {% include bio-blurb.html %}
+
+</div>
+
+
+  </header>
+
+
+    <main>
+
+
+
+     {{ content }}
+
+
+
+
+   </main>
+
+
+{% include footer.html %}
+
+{% include javascript.html %}
+
+</body>
+</html>

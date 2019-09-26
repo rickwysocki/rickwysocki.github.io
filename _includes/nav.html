@@ -1,0 +1,33 @@
+<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+
+<div class="topnav" id="myTopnav">
+
+  <div class="nav-pages">
+  {% assign mypages = site.pages | sort: "order" %}
+    {% for page in mypages %}
+    {% unless page.exclude %}
+    {% unless page.url contains "/page" or page.url contains ".xml"%}
+
+    <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+  {% endunless %}
+    {% endunless %}
+    {% endfor %}
+    </div>
+
+    <div class="nav-icons">
+      <a href=""><i class="fas fa-1x fa-envelope-square"></i></a>
+      <a href=""><i class="fab fa-1x fa-twitter-square"></i></a>
+      <a href=""><i class="fab fa-1x fa-linkedin"></i></a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+
+
+</div>
+<!-- <nav class="topnav" id="myTopnav">
+  {% assign mypages = site.pages | sort: "order" %}
+    {% for page in mypages %}
+    <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+    {% endfor %}
+  </nav> -->
