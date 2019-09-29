@@ -136,7 +136,7 @@ html {
 @media screen and (min-width: 40em) {
   html {
     font-size: 18px;
-    font-size: 1.4rem;
+    font-size: 1.05rem;
   }
 }
 
@@ -876,7 +876,9 @@ footer {
 
 
 
-
+.reversefootnote {
+  text-decoration: none;
+}
 
 .post-list-container {
   display: flex;
@@ -927,9 +929,17 @@ footer {
 
 @media screen and (max-width: 815px) {
 
-p, h1, h2, h3, h4, h5, h6 {
+
+
+.page-card {
   padding: 1rem;
 }
+
+main {
+  padding: 1rem;
+}
+
+
 
 img {
   max-width: 100%;

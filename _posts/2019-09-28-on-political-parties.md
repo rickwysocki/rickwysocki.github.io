@@ -5,7 +5,7 @@ category: web-design life
 excerpt_separator: <!--more-->
 ---
 
-![alt text](/assets/images/trump-art.jpg)
+![Pop art images of  Donald Trump](/assets/images/trump-art.jpg)
 
 Donald Trump is in no uncertain terms a fascist. <!--more--> Specifically, Trump activates the latent microfasiscms of everyday life in the United States, gradually and clearly transforming them into a form of macro state fascism. I have no qualms about impeachment. But I do question the *ways* that centrist-liberals frame impeachment.
 
@@ -13,7 +13,7 @@ Consider #impeachmentparty. As with many viral phenomena, it is difficult to tra
 
 > We are dressed and ready for the #ImpeachmentParty. What are you wearing?
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are dressed and ready for the <a href="https://twitter.com/hashtag/ImpeachmentParty?src=hash&amp;ref_src=twsrc%5Etfw">#ImpeachmentParty</a>. What are you wearing? <a href="https://t.co/Svwqw3RWAh">pic.twitter.com/Svwqw3RWAh</a></p>&mdash; Ava DuVernay (@ava) <a href="https://twitter.com/ava/status/1176631308237197313?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are dressed and ready for the <a href="https://twitter.com/hashtag/ImpeachmentParty?src=hash&amp;ref_src=twsrc%5Etfw">#ImpeachmentParty</a>. What are you wearing? <a href="https://t.co/Svwqw3RWAh">pic.twitter.com/Svwqw3RWAh</a></p>&mdash; Ava DuVernay (@ava) <a href="https://twitter.com/ava/status/1176631308237197313?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The text was accompanied by an image of Duvernay, and others, in the fanciest of red carpet regalia, with Duvernay pointing to the camera as though her finger might somehow reverse the course of our slow but consistent descent into fascism. The tweet garnered over eighty-three thousand likes, ten-thousand retweets, and eighteen-hundren replies.
 
