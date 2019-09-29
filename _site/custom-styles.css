@@ -791,7 +791,7 @@ a:visited {
  background-color: #222222;
  display: flex;
  justify-content: flex-start;
- align-items: center;
+ align-items: flex-start;
  flex-flow: row;
 }
 
@@ -802,7 +802,6 @@ a:visited {
 
 .nav-icons {
   margin-bottom: 0;
-  align-self: flex-end;
   margin-right: 0;
   padding-right: 14px;
   color: #222222;
@@ -917,6 +916,20 @@ button {
   margin: 0;
 }
 
+.icon-inner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 0;
+}
+
+/* Nav Icon Hover Styling */
+
+.icon-inner-container a:hover .fas, .icon-inner-container a:hover .fab {
+  color: #222222
+}
+
+
 
 /* Media Queries */
 
@@ -978,17 +991,19 @@ img {
 
   .topnav {
     display: flex;
-    justify-content: flex-end;
+    flex-direction: column;
   }
 
  .topnav a:not(.nav-icons) {display: none;}
  .topnav a.icon {
-   float: right;
    display: block;
  }
- .nav-icons {
-   align-self: flex-end;
- }
+
+.icon {
+  display: flex;
+  align-self: flex-start;
+}
+
 }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
@@ -996,12 +1011,29 @@ img {
  .topnav.responsive {position: relative;}
  .topnav.responsive a.icon {
    position: absolute;
-   right: 0;
+   left: 0;
    top: 0;
+ }
+
+ .top-nav {
  }
  .topnav.responsive a {
    float: none;
    display: block;
    text-align: left;
+ }
+
+ .nav-icons {
+   display: flex;
+   flex-direction: row;
+   align-items: flex-start;
+ }
+
+ .nav-pages {
+   margin-left: 3em;
+ }
+
+ .icon-inner-container {
+   margin-left: 3em;
  }
 }
