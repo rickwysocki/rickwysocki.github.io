@@ -2,11 +2,10 @@
 title:  A Personal Historical Marker
 category: web-design life
 layout: post
-featured-image: /assets/images/post.jpg
-featured-image-alt: A book icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
-I have a stack of former students' reflection papers on my desk in front of me. As I'm drafting this blog post, I'm picking one up when I'm not sure what to write.
+I have a stack of former students' reflection papers on my desk in front of me. <!--more-->As I'm drafting this blog post, I'm picking one up when I'm not sure what to write.
 
 I tell my students that all writers struggle to produce words, and that picking up other writers' texts can help break through what often feels like a barrier between yourself and the page. (Or, more likely, the screen.) It makes me glad to use *their* writing for this task now, since so many of them entered my introductory college composition course with devalued ideas about their capabilities and possibilities as writers.
 

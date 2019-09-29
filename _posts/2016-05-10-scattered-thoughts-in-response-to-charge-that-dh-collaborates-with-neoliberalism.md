@@ -1,13 +1,12 @@
 ---
 title: Scattered Thoughts in Response to Charge that DH Collaborates with Neoliberalism
 category: web-design life
-featured-image: /assets/images/post.jpg
-featured-image-alt: A book icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
 layout: post
+published: false
 ---
 
-Reading through my Facebook feed today, [I came across an article](http://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/) that not only interested me but was in many ways related to [comments about digital scholarship](https://rickwysocki.github.io/2016/05/04/success.html) I posted a few days ago. This piece, written by Daniel Allington, Sarah Brouillette, and David Golumbia,
+Reading through my Facebook feed today, [I came across an article](http://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/) that not only interested me but was in many ways related to [comments about digital scholarship](https://rickwysocki.github.io/2016/05/04/success.html) I posted a few days ago. <!--more--> This piece, written by Daniel Allington, Sarah Brouillette, and David Golumbia,
 
 1. claimed that Digital Humanities are currently complicit in a (perhaps unintentional) facilitation of a "neoliberal takeover of the university,"
 2. charged the (sub?)discipline with abandoning critical practices and political engagement, and

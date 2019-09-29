@@ -2,12 +2,11 @@
 title:  Sonic Sleuth 2
 layout: post
 category: web-design life
-featured-image: /assets/images/headphones.jpg
-featured-image-alt: A headphone icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
 
-Once a week, I post a list of ten songs I can't stop playing, and brief descriptions of why. Er, the goal is once a week. Since I've fallen off posting (and lost a few posts in the series when moving my blog), I've decided to rebrand this series as "Sonic Sleuth" and try to get back into the weekly posts. So, in any case, feel free to follow if you want to hear some cool songs and read some nerdy thoughts about music. I promise I'll try to deliver some every week.
+Once a week, I post a list of ten songs I can't stop playing, and brief descriptions of why. <!--more-->Er, the goal is once a week. Since I've fallen off posting (and lost a few posts in the series when moving my blog), I've decided to rebrand this series as "Sonic Sleuth" and try to get back into the weekly posts. So, in any case, feel free to follow if you want to hear some cool songs and read some nerdy thoughts about music. I promise I'll try to deliver some every week.
 
 ## Lose Your Love by Joe Goddard
 

@@ -1,11 +1,10 @@
 ---
 title:  "Infographics Workshop 2016"
 category: web-design life
-featured-image: /assets/images/post.jpg
-featured-image-alt: A book icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
-*This page contains resources for a workshop on designing infographics I gave at the University of Louisville on September 19, 2016. It works in tandem with other materials that can be found in [this Google Drive folder](https://drive.google.com/open?id=0B-RoKbZNiS7ZUldvRUw5SGFOQXc). Like everything on my website, all the material (including that contained in the Google Drive folder) is licensed under Creative Commons [BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and readers are encouraged to distribute it freely under those terms. Please feel free to contact me for more resources or with any questions about the workshop.*
+*This page contains resources for a workshop on designing infographics I gave at the University of Louisville on September 19, 2016. <!--more--> It works in tandem with other materials that can be found in [this Google Drive folder](https://drive.google.com/open?id=0B-RoKbZNiS7ZUldvRUw5SGFOQXc). Like everything on my website, all the material (including that contained in the Google Drive folder) is licensed under Creative Commons [BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and readers are encouraged to distribute it freely under those terms. Please feel free to contact me for more resources or with any questions about the workshop.*
 
 ---------
 

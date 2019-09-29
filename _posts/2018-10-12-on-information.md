@@ -2,12 +2,13 @@
 title:  On Information
 layout: post
 category: web-design life
-featured-image: /assets/images/post.jpg
-featured-image-alt: A book icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
 
-One might imagine that, at some point in the past, the acquisition of “information” was seen as an additive benefit to an individual’s ability to move through life. This ability—again, in this imagined past—was somehow linked with another phenomena thought of as “knowledge”—the more information one accumulated, the more knowledge in their store.
+![alt text](https://placeimg.com/1000/480/any)
+
+One might imagine that, at some point in the past, the acquisition of “information” was seen as an additive benefit to an individual’s ability to move through life.<!--more--> This ability—again, in this imagined past—was somehow linked with another phenomena thought of as “knowledge”—the more information one accumulated, the more knowledge in their store.
 
 This imagined past is not, of course, an objectively and historically existing entity. History itself is far too fractured and non-linear, and the idea that concepts like “information” and “knowledge” could be discussed in any easy way would be rebuked by a scholar familiar with the academic literature in virtually any field.
 

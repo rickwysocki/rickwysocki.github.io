@@ -2,13 +2,12 @@
 title:  Models, Views, Controllers, and Archival Formations
 layout: post
 category: web-design life
-featured-image: /assets/images/post.jpg
-featured-image-alt: A book icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
 
 
-Recently, I’ve been learning Ruby on Rails, a web development framework built on the Ruby programming language. Ruby on Rails allows programmers to build web-based applications split into Models (components that manage information from the database), Controllers (components that route requests from the user/browser to particular models and views), and Views, which present data in a meaningful way to users/browsers. In other words, a user makes a request (show me a blog post), the request is sent to a controller that routes the request to a particular model that interacts with a database, returning  specific data asked for by the user to the controller, which then displays the data in a view.*
+Recently, I’ve been learning Ruby on Rails, a web development framework built on the Ruby programming language.<!--more--> Ruby on Rails allows programmers to build web-based applications split into Models (components that manage information from the database), Controllers (components that route requests from the user/browser to particular models and views), and Views, which present data in a meaningful way to users/browsers. In other words, a user makes a request (show me a blog post), the request is sent to a controller that routes the request to a particular model that interacts with a database, returning  specific data asked for by the user to the controller, which then displays the data in a view.*
 
 One reason I’m writing about this is to attempt to make it more concrete in my head–these are complicated and new ideas for me, and writing helps to make sense of them. But as an archival researcher, I find the MVC (model-view-controller) framework to be an interesting metaphor for the ways knowledge is produced by and with particular archival formations. I use the term archival formations because, as any archival researcher knows, archives are never one thing. They are configured and reconfigured in the interactions between materials (documents, artifacts, personal papers, audio tapes, manuscripts, etc.), matter (oxidation, decay, humidity, etc), collectors, archivists, and researchers. To employ the new materialist terminology of Karen Barad, archives emerge in the entanglements between all of these intra-acting phenomena (and many more). There is no pre-existing archive; archives are produced through practices of bodies marked as both human and non-human.
 

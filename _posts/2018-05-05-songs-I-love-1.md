@@ -2,11 +2,10 @@
 title:  Songs I Love, Volume 1
 layout: post
 category: web-design life
-featured-image: /assets/images/headphones.jpg
-featured-image-alt: A headphone icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
-*This is the first of a new series of blog posts I'm starting. It's called "Songs I Love" and, obviously, it's about music I love that I've been listening to lately. Each Sunday, I'll post ten songs I've been listening to lately and give one-ish sentence descriptions explaining why I love them. If you want to follow along at home, I'll post links to the individual songs on Spotify and Youtube, when possible, as well as a full playlist at the bottom of the post.*
+*This is the first of a new series of blog posts I'm starting. <!--more-->It's called "Songs I Love" and, obviously, it's about music I love that I've been listening to lately. Each Sunday, I'll post ten songs I've been listening to lately and give one-ish sentence descriptions explaining why I love them. If you want to follow along at home, I'll post links to the individual songs on Spotify and Youtube, when possible, as well as a full playlist at the bottom of the post.*
 
 ## Prince Rama: Never Forever
 

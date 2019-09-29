@@ -2,12 +2,13 @@
 title:  Sonic Sleuth 4
 layout: post
 category: web-design life
-featured-image: /assets/images/headphones.jpg
-featured-image-alt: A headphone icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
 
-Here’s this week’s “sonic sleuth” post, where I list ten songs I can’t stop playing, and brief descriptions of why. Feel free to follow if you want to hear some cool songs and read some nerdy thoughts about music. I promise I’ll try to deliver some every week.
+![alt text](https://placeimg.com/640/480/any)
+
+Here’s this week’s “sonic sleuth” post, where I list ten songs I can’t stop playing, and brief descriptions of why. <!--more-->Feel free to follow if you want to hear some cool songs and read some nerdy thoughts about music. I promise I’ll try to deliver some every week.
 
 ## Say Yes by Elliott Smith
 

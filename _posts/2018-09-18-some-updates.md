@@ -2,12 +2,11 @@
 title:  Some Updates
 layout: post
 category: web-design life
-featured-image: /assets/images/post.jpg
-featured-image-alt: A book icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
 
-A lot's been going on recently.
+A lot's been going on recently.<!--more-->
 
 I should say, first, that I've added some new information to my website. I've updated my [research](https://rickwysocki.com/research/), [teaching](https://rickwysocki.com/teaching/), and [CV](https://rickwysocki.com/curriculum-vitae/) pages with revised documents, and have added some pages to begin showcasing some of my [creative work](https://rickwysocki.com/portfolio/). There's scant content there now, but I'll add pages for my electronic music, design work, and very amateur photography over the next couple of weeks. A lot of this will change, but I'm slowly trying to take control of my digital self, a decision that's leading me to delete my Facebook at the end end of the week.
 

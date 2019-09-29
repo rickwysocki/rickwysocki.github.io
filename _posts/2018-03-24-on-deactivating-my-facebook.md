@@ -2,12 +2,11 @@
 title:  On Deactivating my Facebook - Or, the Need for a Rhetorical Education
 layout: post
 category: web-design life
-featured-image: /assets/images/post.jpg
-featured-image-alt: A book icon.
-featured-image-caption: This image was modified from a Font Awesome icon under the terms of <a href="https://fontawesome.com/license" target="_blank">their license</a>.
+excerpt_separator: <!--more-->
+published: false
 ---
 
-I had already been thinking about de-activating my Facebook before the Cambridge Analytica story broke. I’m writing a dissertation, raising a dog, rooming with a cat, and always working on music–Facebook, I felt, was eating my time in a way that seemed not only unproductive but not even gratifying. (Though, to be fair, my Twitter use has had a pretty huge upswing since I’ve gotten off Facebook.) Also, as my partner likes to remind me (and I am glad she does), I am addicted to my phone. I felt like it would be a good exercise to de-activate for a whole and see how/whether it affects my life.
+I had already been thinking about de-activating my Facebook before the Cambridge Analytica story broke.<!--more--> I’m writing a dissertation, raising a dog, rooming with a cat, and always working on music–Facebook, I felt, was eating my time in a way that seemed not only unproductive but not even gratifying. (Though, to be fair, my Twitter use has had a pretty huge upswing since I’ve gotten off Facebook.) Also, as my partner likes to remind me (and I am glad she does), I am addicted to my phone. I felt like it would be a good exercise to de-activate for a whole and see how/whether it affects my life.
 
 I hadn’t yet pulled the plug when I heard about Cambridge Analytica, but I de-activated pretty much as soon as I did. If you’re unfamiliar with the story, The Guardian has had some of the best coverage I’ve seen. I appreciated this interview with Christopher Wylie, the whistleblower about the analytics firm.
 

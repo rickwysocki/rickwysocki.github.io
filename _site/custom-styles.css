@@ -128,7 +128,7 @@ html {
   box-sizing: border-box;
   font-size: 16px;
   font-size: 100%;
-  font-family: "Merriweather";
+  font-family: 'Be Vietnam', sans-serif;
   color: #222;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -136,7 +136,7 @@ html {
 @media screen and (min-width: 40em) {
   html {
     font-size: 18px;
-    font-size: 1.125rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -171,6 +171,7 @@ body {
 
 footer {
   display: block;
+  color: white;
 }
 body > footer {
   margin: 0 auto;
@@ -321,6 +322,8 @@ figure {
 /* Headings
    ========================================================================== */
 h1 {
+  font-weight: 800;
+  color: #454955;
   font-size: 48px;
   font-size: 3rem;
   line-height: 52px;
@@ -501,7 +504,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Alfa Slab One', cursive;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  border-top: solid royalblue 0.5rem;
+  padding-top: 1rem;
 }
 
 hgroup {
@@ -730,7 +737,7 @@ header {
 }
 
 header h1 {
-  color: #f56476;
+  color: #222222;
 }
 
 header p {
@@ -745,9 +752,6 @@ iframe {
   width: 100%;
 }
 
-img {
-  box-shadow: 5px 5px #f56476;
-}
 
 h1 {
   font-weight: 900;
@@ -762,16 +766,16 @@ h1 {
 }
 
 a {
-  color: #f56476;
+  color: royalblue;
 }
 
 a:visited {
-  color: #f56476;
+  color: #lightgrey;
 }
 
 .fab, .fas {
   margin-bottom: 0;
-  color: #f56476;
+  color: royalblue;
 }
 
 .fa {
@@ -814,16 +818,17 @@ a:visited {
  color: white;
  text-align: center;
  padding: 14px 16px;
- text-decoration: none;
- font-size: 17px;
+ font-size: 1em;
+ text-transform: uppercase;
  margin-bottom: 0;
- font-family: 'Montserrat', sans-serif;
+ font-family: 'Be Vietnam', sans-serif;
+ font-weight: bold;
 
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
- background-color: #f56476;
+ background-color: royalblue;
  color: black;
 }
 
@@ -870,40 +875,8 @@ footer {
 }
 
 
-form {
-  margin-bottom: 0;
-}
 
-button {
-  margin-bottom: 0;
-}
 
-.message-box {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  margin: 0 3em 3em 0em;
-  padding: 2em;
-  align-items: flex-start;
-}
-
-.message-box h3 {
-  color: #f56476;
-}
-
-.social-media-heading {
-  color: #f56476;
-  padding-left: 0;
-}
-
-.social-media-footer-items {
-  padding-left: 0;
-}
-
-.message-box button {
-  background-color: #f56476;
-  border: 0;
-}
 
 .post-list-container {
   display: flex;
@@ -967,8 +940,6 @@ p, h1, h2, h3, h4, h5, h6 {
 img {
   max-width: 100%;
   width: 100%;
-  box-shadow: 0px 0px;
-  border-bottom: solid 5px #f56476;
 }
 
 .footer-container {
