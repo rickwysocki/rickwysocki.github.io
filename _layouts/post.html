@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+  <body>
+
+
+
+      <header>
+        {% include nav.html %}
+
+      <h1>{{ page.title }}</h1>
+      <figure>
+      <img src="{{ page.featured-image }}" alt="{{ page.featured-image-alt }}">
+      <figcaption>{{ page.featured-image-caption }}</a></figcaption>
+    </figure>
+
+</header>
+
+
+
+      <main>
+
+
+
+
+        {{ content }}
+
+
+
+   </main>
+
+{% unless page.title == 404 %}
+   <p>
+     <small>
+       <a href="/categories.html">Categories</a>
+     </small>
+   </p>
+{% endunless page.title == 404 %}
+
+
+{% include footer.html %}
+
+{% include javascript.html %}
+
+
+</body>
+</html>
