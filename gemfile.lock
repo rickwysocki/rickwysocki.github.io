@@ -92,5 +92,8 @@ DEPENDENCIES
   jekyll-seo-tag
   rake (~> 12)
 
+RUBY VERSION
+   ruby 2.5.5p157
+
 BUNDLED WITH
    2.0.2
