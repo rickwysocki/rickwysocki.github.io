@@ -1,13 +1,18 @@
 language: ruby
-rvm:
-- 2.5
-install:
-- bundle install
+cache: bundler
+branches:
+  only:
+  - source
+script:
+  - JEKYLL_ENV=production bundle exec jekyll build --destination site
 deploy:
   provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local_dir: _site
-  target_branch: master
+  local-dir: ./site
+  target-branch: master
+  email: deploy@travis-ci.org
+  name: Deployment Bot
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
   on:
     branch: source
