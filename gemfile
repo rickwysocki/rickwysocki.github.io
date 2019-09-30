@@ -1,7 +1,7 @@
 # Gemfile
 
 source "https://rubygems.org"
-ruby 2.5
+ruby "2.5.5"
 
 gem "rake", "~> 12"
 gem "jekyll"
@@ -10,5 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-seo-tag"
   gem "jekyll-paginate"
-  gem 'jekyll-scholar'
+  gem "jekyll-scholar"
 end
