@@ -20,8 +20,6 @@ collections:
 
 exclude:
   - vendor
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - Rakefile
