@@ -5,6 +5,8 @@ order: 1
 description: bio
 ---
 
+Test 1
+
 Thanks for visiting my site. I use this space to blog about things that interest and concern me, such as my research, academia, the rise of fascism in the United States, and music. Additionally, I collect and post materials related to my research, teaching, and editorial work, though these will be added to the site in coming weeks.
 
 

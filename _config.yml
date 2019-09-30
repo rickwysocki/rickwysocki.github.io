@@ -10,9 +10,18 @@ paginate_path: "/blog/page:num/"
 
 plugins:
   - jekyll-paginate
+  - jekyll-scholar
 
 scholar:
   source: ./_bibliography
 
 collections:
   - current_projects
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
