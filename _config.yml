@@ -9,7 +9,12 @@ paginate: 8
 paginate_path: "/blog/page:num/"
 
 plugins:
-  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-compose
+  - jekyll-redirect-from
   - jekyll-scholar
 
 scholar:
@@ -20,6 +25,8 @@ collections:
 
 exclude:
   - vendor
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
   - Rakefile
