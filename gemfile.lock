@@ -43,7 +43,7 @@ GEM
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
-    jekyll-sass-converter (2.0.0)
+    jekyll-sass-converter (2.0.1)
       sassc (> 2.0.1, < 3.0)
     jekyll-scholar (6.3.0)
       bibtex-ruby (~> 4.0, >= 4.0.13)

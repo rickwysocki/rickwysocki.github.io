@@ -13,7 +13,10 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  source: ./bibliography
+    style: apa
+    bibliography: refs.bib
+    replace_strings: true
+    query: "@*"
 
 collections:
   - current_projects
