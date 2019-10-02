@@ -18,5 +18,3 @@ title: List of publications
 ---
 vbbb
 ## Journal Papers
-
-{% bibliography %}
