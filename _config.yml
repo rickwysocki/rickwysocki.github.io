@@ -12,7 +12,7 @@ plugins:
   - jekyll-paginate
 
 scholar:
-  source: ./_bibliography
+  source: ./bibliography
 
 collections:
   - current_projects
