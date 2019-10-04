@@ -2,9 +2,10 @@
 ---
 
 /* Color Scheme */
-$base-color: #222222;
-$primary-color: royalblue;
+$base-color: #35495e;
+$primary-color: #42b883;
 $secondary-color: #f8f8ff;
+
 
 /* Typography */
 
@@ -516,8 +517,12 @@ h5,
 h6 {
   font-family: 'Alfa Slab One', sans-serif;
   letter-spacing: 0.02em;
-  border-top: solid $primary-color 0.5rem;
   padding-top: 1rem;
+}
+
+h1,
+h2 {
+  border-top: solid $primary-color 0.5rem;
 }
 
 hgroup {
@@ -740,13 +745,14 @@ video {
 
 header {
   max-width: 100%;
-  background-image: url(/assets/images/synthbanner.jpg);
+  background: url(/assets/images/synthbanner.jpg);
   background-size: cover;
   padding-bottom: 2em;
 }
 
 header h1 {
   color: $base-color;
+  margin-top: 0;
 }
 
 header p {
@@ -837,9 +843,12 @@ a:visited {
   margin-bottom: 3em;
 }
 
-.contact-form {
-  width: 100%;
-  display: block;
+.page-card {
+  border: solid 2px black;
+  padding: 1rem;
+  margin-top: 3em;
+  background-color: white;
+  box-shadow: black 10px 10px;
 }
 
 .pagination {
@@ -885,6 +894,9 @@ footer p {
 .post-card {
   max-width: 300px;
   margin: 0;
+  border: solid black 2px;
+  padding: 1rem;
+  box-shadow: 10px 10px black;
 }
 
 .icon-inner-container {
