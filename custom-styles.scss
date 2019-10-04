@@ -1,7 +1,12 @@
 ---
 ---
 
+/* Color Scheme */
 $base-color: #222222;
+$primary-color: royalblue;
+$secondary-color: #f8f8ff;
+
+/* Typography */
 
 /*
 Gutenberg: A Meaningful Web Typography Starter Kit
@@ -140,7 +145,7 @@ html {
 }
 @media screen and (min-width: 40em) {
   html {
-    font-size: 18px;
+    font-size: 16px;
     font-size: 1.05rem;
   }
 }
@@ -511,7 +516,7 @@ h5,
 h6 {
   font-family: 'Alfa Slab One', sans-serif;
   letter-spacing: 0.02em;
-  border-top: solid royalblue 0.5rem;
+  border-top: solid $primary-color 0.5rem;
   padding-top: 1rem;
 }
 
@@ -756,21 +761,8 @@ iframe {
   width: 100%;
 }
 
-
-h1 {
-  font-weight: 900;
-}
-
-.page-card {
-}
-
-.photo-grid {
-  display: flex;
-  flex-flow: wrap;
-}
-
 a {
-  color: royalblue;
+  color: $primary-color;
 }
 
 a:visited {
@@ -779,7 +771,7 @@ a:visited {
 
 .fab, .fas {
   margin-bottom: 0;
-  color: royalblue;
+  color: $primary-color;
 }
 
 .fa {
@@ -823,23 +815,16 @@ a:visited {
  text-align: center;
  padding: 14px 16px;
  font-size: 1em;
- text-transform: uppercase;
+ text-transform: lowercase;
  margin-bottom: 0;
  font-family: 'Be Vietnam', sans-serif;
- font-weight: bold;
 
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
- background-color: royalblue;
+ background-color: $primary-color;
  color: black;
-}
-
-/* Add an active class to highlight the current page */
-.topnav a.active {
- background-color: #4CAF50;
- color: white;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
@@ -871,6 +856,15 @@ footer {
   background-color: $base-color;
   max-width: 100%;
   width: 100%;
+}
+
+footer small {
+  margin-bottom: 0;
+
+}
+
+footer p {
+  padding-top: 1rem;
 }
 
 .footer-container {
@@ -952,10 +946,6 @@ img {
   flex-direction: column;
   padding: 1rem;
   margin: 0;
-}
-
-.message-box {
-  flex-direction: column;
 }
 
 .post-list-container {
