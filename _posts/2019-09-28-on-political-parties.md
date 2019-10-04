@@ -1,7 +1,9 @@
 ---
 title: On Political Parties (But Not the Kind You're Thinking)
 layout: post
-category: web-design life
+description: Reflecting on Trump and the Society of the Spectacle
+category: politics
+image: /assets/images/trump-art.jpg
 excerpt_separator: <!--more-->
 ---
 
@@ -35,4 +37,4 @@ Headlines referring to ["Hollywood Elites"](https://www.dailymail.co.uk/news/art
 
 I don't mean to be bleak. There is no mandate that attending to representation must be regressive. Walter Benjamin famously claimed that while fascism aestheticizes politics, communism responds by politicizing art. From this perspective, there are ways that the representations made available to us through artistic expression can function to move forward positive and progressive political aims. Furthermore, as Natalie Wynn wonderfully argued, abandoning aesthetics leaves often makes the Left seem quite uncool.
 
-But all that said, all vectors of the left-of-center would do well to avoid an aesthetic that reinscribes a normalcy of the elite. Rather, we need an inclusive aesthetic--such as AOC's instagram chats--that seeks to grow the progressive base. Given concentration camps on our southern border, the continuation and re-emeregence of regressive social policy, and a rapidly deteriorating planet, perhaps it is not yet time to party.
+But all that said, all vectors of the left-of-center would do well to avoid an aesthetic that reinscribes a normalcy of the elite. Rather, we need an inclusive aesthetic that seeks to grow the progressive base. Given concentration camps on our southern border, the continuation and re-emeregence of regressive social policy, and a rapidly deteriorating planet, perhaps it is not yet time to party.

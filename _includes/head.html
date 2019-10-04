@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
+  
+  <!-- lobal site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123370962-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-123370962-2');
+  </script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <title>Rick Wysocki</title>
@@ -10,5 +21,5 @@
     <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Be+Vietnam&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <script src="https://kit.fontawesome.com/68345f7fdb.js"></script>
-
+{% seo %}
 </head>

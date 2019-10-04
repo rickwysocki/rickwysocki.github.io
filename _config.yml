@@ -1,8 +1,27 @@
 title: Dr. Rick Wysocki
+description: Rick Wysocki is an Assistant Teaching Professor and holds a PhD in Rhetoric and Composition, focusing on the relationships between archival research and material rhetoric. This site includes his academic portfolio and his blog.
+url: http://www.rickwysocki.com
+author: Rick Wysocki
+twitter:
+  username: rickwysocki
+  card: summary
+logo: #
+social:
+  name: Ben Balter
+  links:
+    - https://twitter.com/rickwysocki
+    - https://www.linkedin.com/in/rick-wysocki-08a94947/
+    - https://github.com/rickwysocki
 blurb: Assistant Teaching Professor - Ball State University. Queer archival rhetoric, new materialisms, and media theory.
 email: rlwysockijr@gmail.com
 twitter: http://twitter.com/rickwysocki
 linkedin: http://www.linkedin.com/in/rick-wysocki-08a94947/
+
+
+
+
+
+
 
 
 paginate: 8
@@ -11,6 +30,7 @@ paginate_path: "/blog/page:num/"
 plugins:
   - jekyll-paginate
   - jekyll-scholar
+  - jekyll-seo-tag
 
 scholar:
     style: apa
