@@ -215,7 +215,7 @@ a:hover {
   color: #222;
 }
 a:visited {
-  color: #888;
+  color: darken( $primary-color, 20% );
 }
 a:visited:hover {
   color: #222;
@@ -510,14 +510,19 @@ h6 {
 }
 
 h1,
-h2,
+h2, {
+
+  font-family: 'Alfa Slab One', sans-serif;
+  letter-spacing: 0.02em;
+  padding-top: 1rem;
+}
+
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'Alfa Slab One', sans-serif;
-  letter-spacing: 0.02em;
-  padding-top: 1rem;
+  font-family: 'Be Vietnam', sans-serif;
+  font-weight: bold;
 }
 
 h1,
@@ -771,10 +776,6 @@ a {
   color: $primary-color;
 }
 
-a:visited {
-  color: #lightgrey;
-}
-
 .fab, .fas {
   margin-bottom: 0;
   color: $primary-color;
@@ -838,8 +839,11 @@ a:visited {
 }
 
 .avatar {
-  margin-top: 3em;
-  margin-bottom: 3em;
+  max-width: 175px;
+  float: left;
+  margin: 2em;
+  align-self: center;
+  box-shadow: 5px 5px $primary-color;
 }
 
 .page-card {
@@ -848,6 +852,8 @@ a:visited {
   margin-top: 3em;
   background-color: white;
   box-shadow: black 10px 10px;
+  display: flex;
+  flex-direction: column;
 }
 
 .pagination {
@@ -878,6 +884,7 @@ footer p {
 .footer-container {
   display: flex;
   margin-bottom: 0;
+  align-items: center;
 }
 
 .reversefootnote {
@@ -891,8 +898,8 @@ footer p {
 }
 
 .post-card {
-  max-width: 300px;
-  margin: 0;
+  max-width: 275px;
+  margin-bottom: 2em;
   border: solid black 2px;
   padding: 1rem;
   box-shadow: 10px 10px black;
@@ -960,10 +967,16 @@ img {
   flex-direction: column;
   padding: 1rem;
   margin: 0;
+  align-items: center;
 }
 
 .post-list-container {
   align-items: center;
+}
+
+.avatar {
+  float: none;
+  align-self: center;
 }
 
 }

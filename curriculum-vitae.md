@@ -31,7 +31,8 @@ Peer-Reviewed Publications (Collaborative)
 ### Peer-Reviewed Publications (Forthcoming)
 
 - “Reading Our Disciplinary Future(s): Toward a Mobilities Framework for Agency.” Mobility Work in Composition, edited by Bruce Horner, Megan Faver Hartline, Ashanka Kumari, and Laura Matravers. (In process with Utah State University Press)
-Conference Presentations
+
+### Conference Presentations
 - “Queer Curatorial Rhetoric: An LGBTQ Archive in the Making.” Rhetoric Society of America Conference (2018)
 - “‘Make is the Clean Word’: Counter-stories from a Hackerspace.” Conference on College Composition and Communication (2017)
 - “Shirking the Ballot Box: Refusing to Vote as a Rhetorical Act.” Rhetoric Society of America Conference (2016)
