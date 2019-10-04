@@ -1,3 +1,8 @@
+---
+---
+
+$base-color: #222222;
+
 /*
 Gutenberg: A Meaningful Web Typography Starter Kit
 Website ....... http://matejlatin.github.io/Gutenberg/
@@ -504,8 +509,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Alfa Slab One', cursive;
-  font-weight: 800;
+  font-family: 'Alfa Slab One', sans-serif;
   letter-spacing: 0.02em;
   border-top: solid royalblue 0.5rem;
   padding-top: 1rem;
@@ -737,7 +741,7 @@ header {
 }
 
 header h1 {
-  color: #222222;
+  color: $base-color;
 }
 
 header p {
@@ -792,7 +796,7 @@ a:visited {
  overflow: hidden;
  margin: 0;
  max-width: 100%;
- background-color: #222222;
+ background-color: $base-color;
  display: flex;
  justify-content: flex-start;
  align-items: flex-start;
@@ -808,7 +812,7 @@ a:visited {
   margin-bottom: 0;
   margin-right: 0;
   padding-right: 14px;
-  color: #222222;
+  color: $base-color;
 }
 
 /* Style the links inside the navigation bar */
@@ -864,7 +868,7 @@ body > footer {
 }
 
 footer {
-  background-color: #222222;
+  background-color: $base-color;
   max-width: 100%;
   width: 100%;
 }
@@ -899,7 +903,7 @@ footer {
 /* Nav Icon Hover Styling */
 
 .icon-inner-container a:hover .fas, .icon-inner-container a:hover .fab {
-  color: #222222
+  color: $base-color
 }
 
 

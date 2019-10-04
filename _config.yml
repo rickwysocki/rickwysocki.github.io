@@ -20,3 +20,6 @@ scholar:
 
 collections:
   - current_projects
+
+sass:
+  style: compressed
