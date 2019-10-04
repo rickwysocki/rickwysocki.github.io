@@ -7,8 +7,12 @@
     {% for page in mypages %}
     {% unless page.exclude %}
     {% unless page.url contains "/page" or page.url contains ".xml"%}
+    {% unless page.url contains "custom-styles" %}
+
 
     <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+
+    {% endunless %}
   {% endunless %}
     {% endunless %}
     {% endfor %}
