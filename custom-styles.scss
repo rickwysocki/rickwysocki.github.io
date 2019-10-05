@@ -596,8 +596,8 @@ progress {
 }
 
 blockquote {
-  font-style: italic;
   padding-left: 1.4375rem;
+  border-left: solid 5px $primary-color;
 }
 @media screen and (min-width: 40em) {
   blockquote {
