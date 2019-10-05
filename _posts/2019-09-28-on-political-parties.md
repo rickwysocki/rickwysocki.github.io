@@ -4,6 +4,7 @@ layout: post
 description: Reflecting on Trump and the Society of the Spectacle
 category: politics
 image: /assets/images/trump-art.jpg
+author: Rick Wysocki
 comments: true
 excerpt_separator: <!--more-->
 ---

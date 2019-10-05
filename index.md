@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: home
+description: Home page of Rick Wysocki's blog and academic portfolio.
+image: assets/images/rickapril.jpg
 order: 1
 description: bio
 ---
