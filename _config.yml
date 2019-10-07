@@ -18,7 +18,9 @@ twitter: http://twitter.com/rickwysocki
 linkedin: http://www.linkedin.com/in/rick-wysocki-08a94947/
 
 
-
+collections:
+ bibliographies:
+  output: true
 
 
 
