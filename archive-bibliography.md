@@ -3,7 +3,7 @@ title: Bibliography - Archives
 layout: bibliography
 description: Home page of Rick Wysocki's blog and academic portfolio.
 image: assets/images/rickapril.jpg
-order: 1
+order: 3
 description: bio
 ---
 
