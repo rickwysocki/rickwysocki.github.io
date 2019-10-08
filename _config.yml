@@ -38,6 +38,8 @@ plugins:
 scholar:
     style: apa
     bibliography: refs.bib
+    source: ./_bibliography
+    sort_by: author, editor
     replace_strings: true
     query: "@*"
 
