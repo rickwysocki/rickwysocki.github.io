@@ -4,7 +4,6 @@ layout: home
 description: Home page of Rick Wysocki's blog and academic portfolio.
 image: assets/images/rickapril.jpg
 order: 1
-description: bio
 ---
 
 Thanks for visiting my site. I use this space to blog about things that interest and concern me, such as my research, academia, politics, and music. Additionally, I collect and post materials related to my research, teaching, and editorial work, though these will be added to the site in coming weeks.

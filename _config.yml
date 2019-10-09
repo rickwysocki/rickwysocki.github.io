@@ -1,6 +1,6 @@
 title: Dr. Rick Wysocki
 description: Rick Wysocki is an Assistant Teaching Professor and holds a PhD in Rhetoric and Composition, focusing on the relationships between archival research and material rhetoric. This site includes his academic portfolio and his blog.
-url: http://www.rickwysocki.com
+url: https://www.rickwysocki.com
 author: Rick Wysocki
 twitter:
   username: rickwysocki
@@ -19,9 +19,10 @@ linkedin: http://www.linkedin.com/in/rick-wysocki-08a94947/
 
 
 collections:
- bibliographies:
-  output: true
-
+  courses:
+    output: true
+  bibliographies:
+    output: true
 
 
 
@@ -43,8 +44,6 @@ scholar:
     replace_strings: true
     query: "@*"
 
-collections:
-  - current_projects
 
 sass:
   style: compressed

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/bibliographies/archives.html</loc>
+<lastmod>2019-10-08T21:23:46-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/courses/composing-research.html</loc>
+<lastmod>2019-10-08T21:23:46-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/courses/professional-writing.html</loc>
+<lastmod>2019-10-08T21:23:46-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/politics/2019/09/28/on-political-parties.html</loc>
 <lastmod>2019-09-28T00:00:00-04:00</lastmod>
 </url>
@@ -9,7 +21,7 @@
 <lastmod>2019-10-07T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/archive-bibliography.html</loc>
+<loc>http://localhost:4000/bibliographies.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories.html</loc>
